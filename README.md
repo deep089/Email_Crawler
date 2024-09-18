@@ -26,7 +26,7 @@ pip install requests beautifulsoup4
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/email-crawler.git
+https://github.com/deep089/Email_Crawler.git
 cd email-crawler
 ```
 
